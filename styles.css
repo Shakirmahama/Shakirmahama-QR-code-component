@@ -9,7 +9,8 @@ html
 body
 {
     background:  hsl(212, 45%, 89%);
-    padding: 20px 0;
+    display: grid;
+    place-items: center;
 }
 main
 {
@@ -17,7 +18,7 @@ main
     min-width: 375px;
     background-color: White;
     border-radius: 20px;
-    margin: 0 auto;
+  
 
 }
 .image-container
