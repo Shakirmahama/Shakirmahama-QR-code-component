@@ -11,7 +11,7 @@ body
     background:  hsl(212, 45%, 89%);
     padding: 20px 0;
 }
-.main
+main
 {
     width: 375px;
     min-width: 375px;
